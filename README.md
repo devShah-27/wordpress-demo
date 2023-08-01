@@ -1,2 +1,2 @@
-# wordpress-demo
-My first attempt at creating a wordpress website
+# Web Chronicles
+My first attempt at creating a WordPress website using WPforms
